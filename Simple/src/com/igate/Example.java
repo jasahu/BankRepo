@@ -7,6 +7,8 @@ public class Example {
 		System.out.println("java");
 		
 		System.out.println("Hello");
+		
+		System.out.println("world");
 	}
 
 }
